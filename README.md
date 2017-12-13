@@ -1,12 +1,12 @@
 # class-test
-##First Subhead
+## First Subhead
 class **test** *repository*
 
-##Second subhead
+## Second subhead
 
 List of spherical stuff
 1. Apple :apple:
 2. Baseball :baseball:
 3. Grape :grape:
 
-##Third subhead
+## Third subhead
